@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "hudId": "HUD-001",
+  "developerId": null,
+  "version": "1.0.0",
+  "status": "draft",
+  "assets": { "auth": { "file": "auth/auth.png" }, "icons": {}, "logos": {}, "weapons": { "24": { "file": "weapon/24.png" } }, "dialogBackground": null },
+  "colors": { "chat": null, "radicalWindows": "#1A1A1A", "hp": null, "armor": null, "food": null },
+  "captureBoard": null,
+  "radar": { "shape": "round", "outlineSize": 1.25, "outlineColor": "#FF00FF" },
+  "dialogStyle": { "type": null }
+}

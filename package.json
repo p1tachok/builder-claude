@@ -1,0 +1,13 @@
+{
+  "name": "pitachok-hud-core",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Pitachok HUD Builder core: config model, preview/commit state, image validation, hud.js generator",
+  "type": "commonjs",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test tests/*.test.js server/tests/*.test.js",
+    "inspect": "node src/cli.js inspect",
+    "build": "node src/cli.js build"
+  }
+}
